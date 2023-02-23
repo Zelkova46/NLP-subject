@@ -1,3 +1,3 @@
 # NLP-subject
 
-**file NLP dari matkul NLP**
+**file Parsing syntactic dari matkul NLP**
